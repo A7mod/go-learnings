@@ -1,8 +1,8 @@
-package main
+package basics
 
 import "fmt"
 
-func main() {
+func ShowVariables() {
 	var name string = "Meh"
 	var age int = 25
 	height := 55 //ye mast cheez h

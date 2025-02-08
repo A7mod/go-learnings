@@ -1,4 +1,4 @@
-package main
+package basics
 
 import "fmt"
 
@@ -12,7 +12,7 @@ func add(a int, b int) int {
 	return a + b
 }
 
-func main() {
+func ShowFunctions() {
 	greet("Pitter patter")
 
 	sum := add(7, 9)

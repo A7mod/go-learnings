@@ -1,8 +1,8 @@
-package main
+package basics
 
 import "fmt"
 
-func main() {
+func ShowLoops() {
 	// For loop
 	for i := 1; i <= 5; i++ {
 		fmt.Println("Count:", i)

@@ -1,8 +1,8 @@
-package main
+package basics
 
 import "fmt"
 
-func main() {
+func ShowArrays() {
 	var arr [5]int // Fixed size array (of 5 integers)
 	// usually arrays have all values default 0
 	arr[0] = 10

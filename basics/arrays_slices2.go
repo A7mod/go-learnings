@@ -1,8 +1,8 @@
-package main
+package basics
 
 import "fmt"
 
-func main() {
+func ShowSlices() {
 
 	slice := []int{1, 2, 3, 4, 5} // slice declaration (this isan array tho!)
 	fmt.Println("Slice:", slice)

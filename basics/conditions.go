@@ -1,8 +1,8 @@
-package main
+package basics
 
 import "fmt"
 
-func main() {
+func CheckCondition() {
 	age := 55
 
 	if age >= 26 {
