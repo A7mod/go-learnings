@@ -17,4 +17,5 @@ func main() {
 	basics.ShowSlices2()
 	basics.Represent()
 	basics.NamedReturns()
+	basics.ShowAnonfunc()
 }
