@@ -20,4 +20,5 @@ func main() {
 	basics.ShowAnonfunc()
 	basics.ShowVariadicFunc()
 	basics.ShowFuncAsArgument()
+	basics.ShowClosures()
 }
