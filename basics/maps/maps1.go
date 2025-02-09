@@ -1,4 +1,4 @@
-package basics
+package maps
 
 import "fmt"
 
@@ -18,4 +18,6 @@ func ShowMaps() {
 		"UK": "United Kingdom",
 	}
 	fmt.Println("Country Codes:", countryCodes)
+	fmt.Println("----------------------------")
+
 }

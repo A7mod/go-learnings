@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/A7mod/go-learnings/basics"
+	"github.com/A7mod/go-learnings/basics/maps"
 )
 
 func main() {
@@ -22,5 +23,8 @@ func main() {
 	basics.ShowFuncAsArgument()
 	basics.ShowClosures()
 	basics.ShowMethods()
+
+	//maps vaale items
+	maps.ShowMaps()
 
 }
