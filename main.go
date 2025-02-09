@@ -16,4 +16,5 @@ func main() {
 	basics.ShowSlices()
 	basics.ShowSlices2()
 	basics.Represent()
+	basics.NamedReturns()
 }

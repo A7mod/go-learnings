@@ -17,4 +17,6 @@ func ShowSlices() {
 	slice3 := slice2[1:5] // interesting revelation this slice3 still pulls items from arr and not slice3.
 	fmt.Println("Sliced Array slice2:", slice2)
 	fmt.Println("Sliced Array slice3:", slice3)
+
+	fmt.Println("----------------------------")
 }

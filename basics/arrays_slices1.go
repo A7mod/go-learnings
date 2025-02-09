@@ -16,4 +16,6 @@ func ShowArrays() {
 	numbers := [4]int{100, 200, 300} // this is also one way to add items in the array, nice!
 	fmt.Println("Numbers:", numbers)
 
+	fmt.Println("----------------------------")
+
 }

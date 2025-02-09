@@ -18,4 +18,6 @@ func ShowFunctions() {
 	sum := add(7, 9)
 	fmt.Println("Sum:", sum)
 
+	fmt.Println("----------------------------")
+
 }

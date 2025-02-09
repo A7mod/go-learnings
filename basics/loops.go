@@ -12,5 +12,7 @@ func ShowLoops() {
 	numbers := []int{10, 20, 30, 40, 50}
 	for index, value := range numbers {
 		fmt.Println("Index:", index, "value:", value)
+
 	}
+	fmt.Println("----------------------------")
 }

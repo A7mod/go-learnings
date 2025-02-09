@@ -10,5 +10,6 @@ func ShowVariables() {
 	fmt.Println("Name:", name)
 	fmt.Println("Age:", age)
 	fmt.Println("Height:", height)
+	fmt.Println("----------------------------")
 
 }

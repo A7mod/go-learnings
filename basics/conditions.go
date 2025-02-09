@@ -10,5 +10,6 @@ func CheckCondition() {
 	} else {
 		fmt.Println("Other criteria.")
 	}
+	fmt.Println("----------------------------")
 
 }

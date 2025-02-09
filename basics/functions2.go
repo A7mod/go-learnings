@@ -16,5 +16,6 @@ func Represent() {
 
 	fmt.Println("Sum:", sum)
 	fmt.Println("Product:", product)
+	fmt.Println("----------------------------")
 
 }

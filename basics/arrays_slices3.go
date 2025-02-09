@@ -19,6 +19,8 @@ func ShowSlices2() {
 	fmt.Println("Length original:", len(original), "Capacity original:", cap(original))
 	fmt.Println("Length copied:", len(copied), "Capacity copied:", cap(copied))
 
+	fmt.Println("----------------------------")
+
 	// this was useless
 
 }
