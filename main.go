@@ -18,4 +18,5 @@ func main() {
 	basics.Represent()
 	basics.NamedReturns()
 	basics.ShowAnonfunc()
+	basics.ShowVariadicFunc()
 }
