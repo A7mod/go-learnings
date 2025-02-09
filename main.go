@@ -26,5 +26,6 @@ func main() {
 
 	//maps vaale items
 	maps.ShowMaps()
+	maps.ModifyMaps()
 
 }
