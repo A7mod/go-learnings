@@ -19,4 +19,5 @@ func main() {
 	basics.NamedReturns()
 	basics.ShowAnonfunc()
 	basics.ShowVariadicFunc()
+	basics.ShowFuncAsArgument()
 }
