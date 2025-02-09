@@ -21,4 +21,6 @@ func main() {
 	basics.ShowVariadicFunc()
 	basics.ShowFuncAsArgument()
 	basics.ShowClosures()
+	basics.ShowMethods()
+
 }
