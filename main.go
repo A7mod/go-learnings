@@ -15,4 +15,5 @@ func main() {
 	basics.ShowArrays()
 	basics.ShowSlices()
 	basics.ShowSlices2()
+	basics.Represent()
 }
