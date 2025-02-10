@@ -29,5 +29,6 @@ func main() {
 	maps.ModifyMaps()
 	maps.CheckKeyExists()
 	maps.IterateMaps()
+	maps.ShowNests()
 
 }
