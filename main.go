@@ -28,5 +28,6 @@ func main() {
 	maps.ShowMaps()
 	maps.ModifyMaps()
 	maps.CheckKeyExists()
+	maps.IterateMaps()
 
 }
