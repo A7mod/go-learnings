@@ -50,5 +50,6 @@ func main() {
 	structs.ShowRectangle()
 	structs.ShowCar()
 	structs.ShowUser()
+	structs.ShowAnonStruct()
 
 }
