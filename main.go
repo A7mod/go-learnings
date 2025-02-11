@@ -48,5 +48,6 @@ func main() {
 	fmt.Println("\n--- Structs ---")
 	structs.StructBasics()
 	structs.ShowRectangle()
+	structs.ShowCar()
 
 }
