@@ -49,5 +49,6 @@ func main() {
 	structs.StructBasics()
 	structs.ShowRectangle()
 	structs.ShowCar()
+	structs.ShowUser()
 
 }
