@@ -55,5 +55,6 @@ func main() {
 	// advanced as in another main folder-ch
 	fmt.Println("\n--- Interfaces ---")
 	interfacee.ShowSpeak()
+	interfacee.ShowAccounts()
 
 }
