@@ -47,5 +47,6 @@ func main() {
 	// Structs ka maamla
 	fmt.Println("\n--- Structs ---")
 	structs.StructBasics()
+	structs.ShowRectangle()
 
 }
