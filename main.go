@@ -56,5 +56,6 @@ func main() {
 	fmt.Println("\n--- Interfaces ---")
 	interfacee.ShowSpeak()
 	interfacee.ShowAccounts()
+	interfacee.ShowValues()
 
 }
