@@ -57,5 +57,6 @@ func main() {
 	interfacee.ShowSpeak()
 	interfacee.ShowAccounts()
 	interfacee.ShowValues()
+	interfacee.ShowData()
 
 }
