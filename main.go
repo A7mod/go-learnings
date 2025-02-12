@@ -60,5 +60,6 @@ func main() {
 	interfacee.ShowData()
 	interfacee.ShowYosulf()
 	interfacee.ShowReality()
+	interfacee.ShowVehicle()
 
 }

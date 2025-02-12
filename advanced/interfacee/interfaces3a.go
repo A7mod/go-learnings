@@ -46,4 +46,6 @@ func ShowReality() {
 
 	// Calling function with different interfaces
 	PerformAction(person)
+
+	fmt.Println("----------------------------")
 }
