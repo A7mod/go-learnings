@@ -59,5 +59,6 @@ func main() {
 	interfacee.ShowValues()
 	interfacee.ShowData()
 	interfacee.ShowYosulf()
+	interfacee.ShowReality()
 
 }
