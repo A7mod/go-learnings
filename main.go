@@ -62,5 +62,6 @@ func main() {
 	interfacee.ShowReality()
 	interfacee.ShowVehicle()
 	interfacee.ShowSpeaker()
+	interfacee.ShowPayments()
 
 }
