@@ -25,6 +25,7 @@ func main() {
 	interfacee.Showpets()
 
 	fmt.Println("\n--- Concurrency ---")
-	concurrency.ShowGoroutines()
+	//concurrency.ShowGoroutines()
+	concurrency.ShowGoroutines2()
 
 }
