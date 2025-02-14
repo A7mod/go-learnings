@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/A7mod/go-learnings/advanced/concurrency"
 	"github.com/A7mod/go-learnings/advanced/interfacee"
 )
 
@@ -22,5 +23,8 @@ func main() {
 	interfacee.ShowSpeaker()
 	interfacee.ShowPayments()
 	interfacee.Showpets()
+
+	fmt.Println("\n--- Concurrency ---")
+	concurrency.ShowGoroutines()
 
 }
