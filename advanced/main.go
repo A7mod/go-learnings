@@ -27,6 +27,7 @@ func main() {
 	fmt.Println("\n--- Concurrency ---")
 	//concurrency.ShowGoroutines()
 	//concurrency.ShowGoroutines2()
-	concurrency.ShowBasicChannel()
+	//concurrency.ShowBasicChannel()
+	concurrency.ShowChannelFunction()
 
 }
