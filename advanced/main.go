@@ -29,5 +29,6 @@ func main() {
 	//concurrency.ShowGoroutines2()
 	//concurrency.ShowBasicChannel()
 	concurrency.ShowChannelFunction()
+	concurrency.ShowKaise()
 
 }
