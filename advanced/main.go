@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/A7mod/go-learnings/advanced/concurrency"
+	"github.com/A7mod/go-learnings/advanced/concurrency/con2"
 )
 
 func main() {
@@ -29,8 +29,12 @@ func main() {
 	//concurrency.ShowBasicChannel()
 	//concurrency.ShowChannelFunction()
 	//concurrency.ShowKaise()
-	concurrency.ShowChannelBak()
-	concurrency.ShowBufferedChannelBlocking()
-	concurrency.ShowBufferedLoop()
+	//concurrency.ShowChannelBak()
+	//concurrency.ShowBufferedChannelBlocking()
+	//concurrency.ShowBufferedLoop()
+
+	fmt.Println("\n--- Concurrency 2 = Con2 ---")
+
+	con2.ShowChannelDirection()
 
 }
