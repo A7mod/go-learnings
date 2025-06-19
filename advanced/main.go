@@ -36,5 +36,6 @@ func main() {
 	fmt.Println("\n--- Concurrency 2 = Con2 ---")
 
 	con2.ShowChannelDirection()
+	con2.ShowSelectBasics()
 
 }
