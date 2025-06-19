@@ -31,5 +31,6 @@ func main() {
 	//concurrency.ShowKaise()
 	concurrency.ShowChannelBak()
 	concurrency.ShowBufferedChannelBlocking()
+	concurrency.ShowBufferedLoop()
 
 }
