@@ -37,5 +37,6 @@ func main() {
 
 	con2.ShowChannelDirection()
 	con2.ShowSelectBasics()
+	con2.ShowSelectNotBasic()
 
 }
