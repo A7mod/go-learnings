@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/A7mod/go-learnings/advanced/concurrency"
-	"github.com/A7mod/go-learnings/advanced/interfacee"
 )
 
 func main() {
@@ -13,16 +12,16 @@ func main() {
 
 	// advanced as in another main folder-ch
 	fmt.Println("\n--- Interfaces ---")
-	interfacee.ShowSpeak()
-	interfacee.ShowAccounts()
-	interfacee.ShowValues()
-	interfacee.ShowData()
-	interfacee.ShowYosulf()
-	interfacee.ShowReality()
-	interfacee.ShowVehicle()
-	interfacee.ShowSpeaker()
-	interfacee.ShowPayments()
-	interfacee.Showpets()
+	// interfacee.ShowSpeak()
+	// interfacee.ShowAccounts()
+	// interfacee.ShowValues()
+	// interfacee.ShowData()
+	// interfacee.ShowYosulf()
+	// interfacee.ShowReality()
+	// interfacee.ShowVehicle()
+	// interfacee.ShowSpeaker()
+	// interfacee.ShowPayments()
+	// interfacee.Showpets()
 
 	fmt.Println("\n--- Concurrency ---")
 	//concurrency.ShowGoroutines()
@@ -31,5 +30,6 @@ func main() {
 	//concurrency.ShowChannelFunction()
 	//concurrency.ShowKaise()
 	concurrency.ShowChannelBak()
+	concurrency.ShowBufferedChannelBlocking()
 
 }
