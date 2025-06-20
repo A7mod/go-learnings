@@ -44,5 +44,7 @@ func main() {
 	// con2.NewTicker()
 	con2.ClosingChannel()
 	con2.RangeChannel()
+	fmt.Println("\n ---- Wait Group ----")
+	con2.WaitGroups()
 
 }
