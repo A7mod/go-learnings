@@ -43,5 +43,6 @@ func main() {
 	// fmt.Println("\n ---- tickers ----")
 	// con2.NewTicker()
 	con2.ClosingChannel()
+	con2.RangeChannel()
 
 }
