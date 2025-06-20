@@ -38,5 +38,9 @@ func main() {
 	con2.ShowChannelDirection()
 	con2.ShowSelectBasics()
 	con2.ShowSelectNotBasic()
+	fmt.Println("\n ---- tickers ----")
+	con2.TickBasic()
+	fmt.Println("\n ---- tickers ----")
+	con2.NewTicker()
 
 }
