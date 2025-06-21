@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/A7mod/go-learnings/advanced/concurrency/con2"
+	"github.com/A7mod/go-learnings/advanced/concurrency/con3"
 )
 
 func main() {
@@ -42,9 +42,13 @@ func main() {
 	// con2.TickBasic()
 	// fmt.Println("\n ---- tickers ----")
 	// con2.NewTicker()
-	con2.ClosingChannel()
-	con2.RangeChannel()
-	fmt.Println("\n ---- Wait Group ----")
-	con2.WaitGroups()
+	// con2.ClosingChannel()
+	// con2.RangeChannel()
+	// fmt.Println("\n ---- Wait Group ----")
+	// con2.WaitGroups()
+
+	fmt.Println("\n--- Concurrency 3 = Con3 ---")
+
+	con3.MutexBasic() // thoda useless h, but good to learn syntax.
 
 }
