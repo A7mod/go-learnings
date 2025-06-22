@@ -50,5 +50,7 @@ func main() {
 	fmt.Println("\n--- Concurrency 3 = Con3 ---")
 
 	con3.MutexBasic() // thoda useless h, but good to learn syntax.
+	con3.MutexwithWaitGroup()
+	con3.RaceCondition()
 
 }
