@@ -55,5 +55,6 @@ func main() {
 	con3.RaceConditionFixed()
 	con3.Fanout()
 	con3.FanIn()
+	con3.FanOutFanIn()
 
 }
