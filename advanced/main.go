@@ -53,5 +53,6 @@ func main() {
 	// con3.MutexwithWaitGroup()
 	con3.RaceCondition()
 	con3.RaceConditionFixed()
+	con3.Fanout()
 
 }
