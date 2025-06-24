@@ -51,10 +51,11 @@ func main() {
 
 	// con3.MutexBasic() // thoda useless h, but good to learn syntax.
 	// con3.MutexwithWaitGroup()
-	con3.RaceCondition()
-	con3.RaceConditionFixed()
-	con3.Fanout()
-	con3.FanIn()
-	con3.FanOutFanIn()
+	// con3.RaceCondition()
+	// con3.RaceConditionFixed()
+	// con3.Fanout()
+	// con3.FanIn()
+	// con3.FanOutFanIn()
+	con3.WorkerPool()
 
 }
