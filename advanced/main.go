@@ -57,5 +57,6 @@ func main() {
 	// con3.FanIn()
 	// con3.FanOutFanIn()
 	con3.WorkerPool()
+	con3.WorkerPoolResults()
 
 }
